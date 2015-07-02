@@ -9,7 +9,7 @@ void Draw() {
 	cout<<"\t\t-----T I C - T A C - T O E----- \t\t by Anurup Dey.\n\n";
 	cout<<"\n\t\t\t -------------\n";
 	for (int i = 0; i<3; ++i) {
-		cout<<"\t\t\t";//
+		cout<<"\t\t\t";////
 		for (int j = 0; j<3; ++j) {
 
 			cout<<" | "<<Matrix[(i*3)+j]<<"";
